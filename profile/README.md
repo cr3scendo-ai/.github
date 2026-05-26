@@ -6,7 +6,7 @@ CR3SCENDO AI is building the first execution platform for entrepreneurs. Not ano
 
 ## Trust as a first-class citizen
 
-CR3SCENDO AI treats trust and traceability as architectural commitments, not privacy-policy footnotes. Founders own their data, see the reasoning behind every recommendation, and control how their decisions contribute to platform learning. Read the full posture: [Trust as a First-Class Citizen](https://cr3scendo.ai/thesis/trust-as-first-class-citizen).
+CR3SCENDO AI treats trust and traceability as architectural commitments, not privacy-policy footnotes. Founders own their data, see the reasoning behind every recommendation, and control how their decisions contribute to platform learning.
 
 ## Platform Highlights
 
