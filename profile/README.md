@@ -40,12 +40,12 @@ Experiences are felt qualities of using Nexus, not products to shop. Each spans 
 
 | Capability | Status |
 |---|---|
-| Company formation (Delaware C-Corp, LLC) | Building |
-| Automated bookkeeping and invoicing | Building |
-| Compliance tracking and filing | Building |
-| Payments and tax | Building |
-| Customer and pipeline management | Building |
-| Daily Huddle (voice-first morning briefing) | Building |
+| Company formation (Delaware C-Corp, LLC) | Beta Launch soon |
+| Automated bookkeeping and invoicing | Beta Launch soon |
+| Compliance tracking and filing | Beta Launch soon |
+| Payments and tax | Beta Launch soon |
+| Customer and pipeline management | Beta Launch soon |
+| Daily Huddle (voice-first morning briefing) | Beta Launch soon |
 | **CR3SCENDO AI SDK** | Coming soon |
 
 ## The SDK
